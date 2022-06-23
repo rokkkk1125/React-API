@@ -1,0 +1,33 @@
+
+#pollution-info{
+    width:400px;
+    height:400px;
+    background-color: aquamarine;
+    margin:20px auto;
+}
+
+#station-name{
+    background-color: aliceblue;
+}
+#co-area{
+    background-color: lightblue;
+}
+#no2-area{
+    background-color: rosybrown;
+}
+#pm10-area{
+    background-color: azure;
+}
+#pm25-area{
+    background-color: olivedrab;
+}
+#so2-area{
+    background-color: salmon;
+}
+#o3-area{
+    background-color: greenyellow;
+}
+#pollution-info{
+    text-align: center;
+    font-weight: bold;
+}
